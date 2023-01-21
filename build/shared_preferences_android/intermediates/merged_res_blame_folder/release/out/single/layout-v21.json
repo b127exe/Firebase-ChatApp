@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Android development\\Flutter apps\\group_chatapp_flutter_firebase\\build\\shared_preferences_android\\intermediates\\merged_res\\release\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\bilal\\.gradle\\caches\\transforms-3\\d4be00ef9362846b7e5ef168486a55d7\\transformed\\core-1.6.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\Android development\\Flutter apps\\group_chatapp_flutter_firebase\\build\\shared_preferences_android\\intermediates\\merged_res\\release\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\bilal\\.gradle\\caches\\transforms-3\\d4be00ef9362846b7e5ef168486a55d7\\transformed\\core-1.6.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\Android development\\Flutter apps\\group_chatapp_flutter_firebase\\build\\shared_preferences_android\\intermediates\\merged_res\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\bilal\\.gradle\\caches\\transforms-3\\d4be00ef9362846b7e5ef168486a55d7\\transformed\\core-1.6.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\Android development\\Flutter apps\\group_chatapp_flutter_firebase\\build\\shared_preferences_android\\intermediates\\merged_res\\release\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\bilal\\.gradle\\caches\\transforms-3\\d4be00ef9362846b7e5ef168486a55d7\\transformed\\core-1.6.0\\res\\layout-v21\\notification_action.xml"
+    }
+]

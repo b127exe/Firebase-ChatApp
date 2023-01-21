@@ -1,0 +1,4 @@
+#Thu Jan 19 15:51:51 PKT 2023
+base.0=E\:\\Android development\\Flutter apps\\group_chatapp_flutter_firebase\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
